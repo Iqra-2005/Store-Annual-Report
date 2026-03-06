@@ -26,4 +26,5 @@ This project is a basic **Excel Sales Dashboard** created to practice data clean
 8. Determine the **highest selling category**.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard2.png)
