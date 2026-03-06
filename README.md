@@ -1,4 +1,4 @@
-# Excel Sales Dashboard – Mini Project
+# Excel Sales Dashboard - Mini Project
 
 ## Overview
 This project is a basic **Excel Sales Dashboard** created to practice data cleaning, analysis, and visualization using Excel. The dashboard uses **Pivot Tables, Pivot Charts, and Slicers** to analyze sales data and generate insights for the year 2022.
