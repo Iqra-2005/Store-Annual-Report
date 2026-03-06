@@ -28,6 +28,6 @@ This project is a basic **Excel Sales Dashboard** created to practice data clean
 ## Dashboard Preview
 ![Dashboard](Dashboard1.png)
 
-## Preview of Amazon Quarterly Sales using slicers
+## Preview of Amazon Sales using slicers
 
 ![Dashboard](Dashboard2.png)
