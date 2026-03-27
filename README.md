@@ -6,7 +6,7 @@ This project is a basic **Excel Sales Dashboard** created to practice data clean
 ## Data Preparation
 - Cleaned the dataset by removing duplicates and handling inconsistent values.
 - Standardized categories such as gender, order status, and sales channels.
-- Formatted columns (dates, numbers, and text) for proper analysis.
+- Formatted columns (dates, numbers, and text) for proper analysis. 
 
 ## Tools & Features Used
 - Pivot Tables
